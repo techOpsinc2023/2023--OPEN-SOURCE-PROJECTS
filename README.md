@@ -5,6 +5,7 @@ Education:
 
 E-Learning Platform for Underserved Areas: Develop an online education platform optimized for low-bandwidth environments, enabling students in remote or underserved areas to access quality educational resources.
 Student Progress Tracker: Create a system that tracks student progress and provides personalized recommendations for improvement, helping educators tailor their teaching methods.
+
 Health:
 
 Telemedicine App: Build a telemedicine platform that connects patients in rural or distant areas with healthcare professionals, improving access to medical advice and reducing the need for physical visits.
