@@ -9,14 +9,17 @@ Health:
 
 Telemedicine App: Build a telemedicine platform that connects patients in rural or distant areas with healthcare professionals, improving access to medical advice and reducing the need for physical visits.
 Health Monitoring Wearables: Develop wearable devices with real-time health monitoring capabilities, such as heart rate, blood pressure, and blood sugar levels, to empower individuals to proactively manage their health.
+
 Agriculture:
 
 Crop Monitoring and Management: Create a solution that utilizes IoT sensors and data analytics to monitor soil conditions, weather patterns, and crop health, providing farmers with insights for optimizing their yields.
 Marketplace for Farmers: Build an online platform where farmers can directly sell their produce to consumers and businesses, eliminating intermediaries and increasing their profits.
+
 Housing:
 
 Affordable Housing Finder: Develop a website or app that helps individuals find affordable housing options based on their location, income, and preferences, while also connecting them with relevant resources.
 Energy-Efficient Home Automation: Create a smart home system that optimizes energy usage, reducing utility bills and environmental impact.
+
 Security:
 
 Community Watch App: Build a mobile app that allows communities to report and respond to security concerns, fostering collaboration between residents and local law enforcement.
